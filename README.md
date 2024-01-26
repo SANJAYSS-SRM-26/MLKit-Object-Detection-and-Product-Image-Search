@@ -19,6 +19,9 @@
   Product Image Search: When a user clicks on a dot, the application extracts the corresponding object from the image and initiates a product image search using the extracted object.
   Viewing Search Results: The application displays search results based on the detected object, enabling users to explore similar products available online.
 
+# Note
+  ImageClickableView.kt and ObjectDetectorActivity.kt contains the source code.
+
 # License
   This project is licensed under the Apache License, Version 2.0. See the LICENSE file for more details.
   
